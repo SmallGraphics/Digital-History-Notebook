@@ -22,11 +22,11 @@ Report Status (These questions need to be answered for part of your grade):
 
 1.1: What command did you use to bring the repository to your local machine?
 
-Answer:
+Answer: git clone \[url]
 
 1.2: What was your first commit message to push this file to GitHub?
 
-Answer:
+Answer: Pasted assignment into README
 
 Assignment 2: The Founding Visionaries
 
@@ -43,6 +43,10 @@ Create a second new file named alan-turing.md.
 In this file, research and write a short paragraph about his contributions to modern computer science. (Cite those sources!)
 
 In this README.md file, add two hyperlinks below to your new files. The links must be named "Ada Lovelace" and "Alan Turing" and must lead to the corresponding files you just created. (Hint you will need to research how to put in a link in markdown)
+
+\[(file:///C:/Users/ImperialOfficer/Documents/Git%20Repositories/Digital-History-Notebook/ada-lovelace.md)]
+
+\[(file:///C:/Users/ImperialOfficer/Documents/Git%20Repositories/Digital-History-Notebook/alan-turing.md)]
 
 Use git add . to stage both new files.
 
