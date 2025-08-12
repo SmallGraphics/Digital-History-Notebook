@@ -44,9 +44,9 @@ In this file, research and write a short paragraph about his contributions to mo
 
 In this README.md file, add two hyperlinks below to your new files. The links must be named "Ada Lovelace" and "Alan Turing" and must lead to the corresponding files you just created. (Hint you will need to research how to put in a link in markdown)
 
-[(file:///C:/Users/ImperialOfficer/Documents/Git%20Repositories/Digital-History-Notebook/ada-lovelace.md)]
+\[(file:///C:/Users/ImperialOfficer/Documents/Git%20Repositories/Digital-History-Notebook/ada-lovelace.md)]
 
-[(file:///C:/Users/ImperialOfficer/Documents/Git%20Repositories/Digital-History-Notebook/alan-turing.md)]
+\[(file:///C:/Users/ImperialOfficer/Documents/Git%20Repositories/Digital-History-Notebook/alan-turing.md)]
 
 Use git add . to stage both new files.
 
@@ -88,7 +88,7 @@ Report Status:
 
 3.1: What command did you use to retrieve the new information from GitHub?
 
-Answer:
+Answer: git pull \[url]
 
 Assignment 4: The Modern Era
 
@@ -101,6 +101,10 @@ On your local machine, create a new file named bill-gates.md. Research and write
 Create a second new file named steve-jobs.md. Research and write a short paragraph about his role in user interface and consumer technology.
 
 In this README.md file, add two new hyperlinks below to the files you just created. The links must be named "Bill Gates" and "Steve Jobs" and must lead to the corresponding files.
+
+\[Bill Gates](file:///C:/Users/ImperialOfficer/Documents/Git%20Repositories/Digital-History-Notebook/bill-gates.md)
+
+\[Steve Jobs](file:///C:/Users/ImperialOfficer/Documents/Git%20Repositories/Digital-History-Notebook/steve-jobs.md)
 
 Use git add . to stage the new files and the updated README.md.
 
@@ -235,11 +239,13 @@ A screenshot of your repository's commit history on GitHub. To find this, naviga
 Be sure to answer the questions above as well.
 
 ## Timeline: The Rise of the Internet.
+
 such as the creation of ARPANET, the invention of TCP/IP, or the launch of the World Wide Web. Be sure to include pictures as well
-- 1973: Creation of ARPANET
-- 1982: ARPANET migrates to TCP and IP
-- 1983: DNS rolls out .gov, .edu, .com, .mil, .net, .int, and .org systems instead of using host IPs
-- 1991: World Wide Web is rolled out to the general public
-- 1994: Internet Explorer web browser is released by Microsoft
-- 1998: Google search engine is released
-- 1998: IPv6 is introduced
+
+* 1973: Creation of ARPANET
+* 1982: ARPANET migrates to TCP and IP
+* 1983: DNS rolls out .gov, .edu, .com, .mil, .net, .int, and .org systems instead of using host IPs
+* 1991: World Wide Web is rolled out to the general public
+* 1994: Internet Explorer web browser is released by Microsoft
+* 1998: Google search engine is released
+* 1998: IPv6 is introduced
