@@ -58,11 +58,11 @@ Report Status:
 
 2.1: What two file names did you create?
 
-Answer:
+Answer: ada-lovelace.md and alan-turing.md
 
 2.2: What was your commit message?
 
-Answer:
+Answer: Added pioneers Ada and Alan
 
 Assignment 3: A Timeline of the Internet
 
