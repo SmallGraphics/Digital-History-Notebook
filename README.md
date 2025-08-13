@@ -172,7 +172,7 @@ Use git commit -m "Added Tim Berners-Lee" to save these changes.
 
 Use git push to publish this final piece of research.
 
-Report Status: success
+Report Status:
 
 6.1: What was your commit message for this assignment?
 
@@ -204,7 +204,7 @@ Report Status:
 
 7.1: What command did you use to retrieve your final thoughts from GitHub?
 
-Answer:
+Answer: git pull \[url]
 
 High-Level Challenge: The Editing Mistake
 
@@ -251,3 +251,7 @@ such as the creation of ARPANET, the invention of TCP/IP, or the launch of the W
 * 1994: Internet Explorer web browser is released by Microsoft
 * 1998: Google search engine is released
 * 1998: IPv6 is introduced
+
+## Final Thoughts
+
+I would say this assignment has helped me to be more confident and skilled using git commands. It is now more clear how to manage version history, and I have also learned about branches.
