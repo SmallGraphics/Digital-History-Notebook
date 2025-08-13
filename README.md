@@ -116,11 +116,11 @@ Report Status:
 
 4.1: What command did you use to save your changes to your local notebook?
 
-Answer:
+Answer: git pull \[url]
 
 4.2: What command did you use to publish your changes to the remote repository?
 
-Answer:
+Answer: git push
 
 Assignment 5: Peer Review
 
@@ -146,11 +146,11 @@ Report Status:
 
 5.1: What did git status tell you after you ran git fetch?
 
-Answer:
+Answer: modified:   README.md
 
 5.2: What command did you use to merge your peer's changes into your local notebook?
 
-Answer:
+Answer: git pull
 
 Assignment 6: The Web's Inventor
 
@@ -163,6 +163,8 @@ On your local machine, create a new file named tim-berners-lee.md.
 In this file, research and write a short paragraph about his role in creating the World Wide Web.
 
 In this README.md file, add a hyperlink to this new file. The link should be named "Tim Berners-Lee".
+
+\[Tim Berners-Lee](file:///C:/Users/ImperialOfficer/Documents/Git%20Repositories/Digital-History-Notebook/tim-berners-lee.md)
 
 Use git add . to stage the new file and the updated README.md.
 
